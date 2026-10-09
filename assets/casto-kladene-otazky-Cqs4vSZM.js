@@ -1,0 +1,1 @@
+import{u as e}from"./obsah-DTlM6z_F.js";import{x as t}from"./Icon-CGl2zED_.js";import{n,r}from"./Sections-CxEJgXvV.js";var i=e(),a=()=>(0,i.jsxs)(`main`,{children:[(0,i.jsx)(r,{img:t,label:`Otázky`,title:(0,i.jsxs)(i.Fragment,{children:[`Skôr než `,(0,i.jsx)(`span`,{className:`hl`,children:`odletíte`})]})}),(0,i.jsx)(n,{title:`Všetko podstatné`})]});export{a as component};

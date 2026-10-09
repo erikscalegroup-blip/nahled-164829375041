@@ -1,0 +1,1 @@
+var e=`/assets/kaviaren-UZ3VE_99.webp`;export{e as t};
